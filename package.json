@@ -1,0 +1,16 @@
+{
+  "name": "notifier",
+  "version": "0.0.1",
+  "description": "Notifications app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erick Navarro",
+  "license": "GPL",
+  "dependencies": {
+    "body-parser": "^1.6.5",
+    "express": "^4.8.5",
+    "socket.io": "^1.0.6"
+  }
+}
